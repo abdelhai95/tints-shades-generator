@@ -13,7 +13,7 @@ This Tints and Shades Generator offers a unique approach to color selection by p
 
 ## Features
 * Generates 4 tints and 4 shades of a color.
-* Allows users to select from a color wheel or enter HEX code.
+* Allows users to select from a color wheel.
 * Displays the generated tints and shades with their HEX codes.
 * Responsive design for optimal user experience on different devices.
 
